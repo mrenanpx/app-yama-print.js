@@ -4,9 +4,10 @@
   "display": "standalone",
   "name": "Consulta de Preços YAMA PRINT",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/app-yama-print/",
+  "id": "/app-yama-print/",
   "short_name": "YAMA PRINT",
-  "start_url": "https://script.google.com/macros/s/AKfycbxh9zixEpavPfMhBRwCCWM5AzvXKdcKNYAncCzfHk79J1zROlsh3YQA306zQaRrJSei/exec",
+  "start_url": "https://mrenanpx.github.io/app-yama-print.js/",
   "theme_color": "#0d6efd",
   "icons": [
     {
