@@ -1,9 +1,12 @@
 {
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
   "name": "Consulta de Preços YAMA PRINT",
+  "orientation": "any",
+  "scope": "/",
   "short_name": "YAMA PRINT",
   "start_url": "https://script.google.com/macros/s/AKfycbxh9zixEpavPfMhBRwCCWM5AzvXKdcKNYAncCzfHk79J1zROlsh3YQA306zQaRrJSei/exec",
-  "display": "standalone",
-  "background_color": "#ffffff",
   "theme_color": "#0d6efd",
   "icons": [
     {
@@ -16,5 +19,6 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "lang": "pt"
 }
